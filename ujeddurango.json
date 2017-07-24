@@ -1,0 +1,24 @@
+{"items": [
+         {
+        "stream": [
+            {
+                "playlist": ["http://200.23.125.55:8000"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://200.23.125.55:8000"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s92082q.png",
+        "time": "",
+        "title": "Radio UJED 100.5 FM"
+}
+]}
